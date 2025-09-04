@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👩‍💻 Olá, eu sou a Gabrielle Barbosa!
 
-<!--
-**gabesCar/gabesCar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Senac) – 2º semestre  
+💻 Interesse em **desenvolvimento web, banco de dados e programação**  
+📚 Atualmente aprendendo: **HTML, CSS, JavaScript, Python**  
+🚀 Buscando oportunidade de **estágio em TI** para aplicar meus conhecimentos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou aprendendo
+- **Linguagens:** Python, Java, JavaScript  
+- **Front-end:** HTML5, CSS3, JavaScript 
+- **Ferramentas:** Git, GitHub, VS Code  
+
+---
+
+## 📫 Como me encontrar
+- 💼 [LinkedIn](https://linkedin.com/in/gabrielle-cardoso12/)  
+- 📧 E-mail: cardosogabrielle01@gmail.com  
+- 💻 [GitHub](https://github.com/gabesCar)  
+
+---
+
+⭐ *Esse GitHub é meu espaço de aprendizado e evolução na área de tecnologia. Fique à vontade para acompanhar meus projetos!*
