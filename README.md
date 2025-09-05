@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, eu sou a Gabrielle Barbosa!
+# 👩‍💻 Olá, eu sou a Gabrielle Cardoso!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Senac) – 2º semestre  
 💻 Interesse em **desenvolvimento web, banco de dados e programação**  
