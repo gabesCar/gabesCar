@@ -2,13 +2,13 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Senac) – 2º semestre  
 💻 Interesse em **desenvolvimento web, banco de dados e programação**  
-📚 Atualmente aprendendo: **HTML, CSS, JavaScript, Python**  
+📚 Atualmente aprendendo: **Python e MySQL**  
 🚀 Buscando oportunidade de **estágio em TI** para aplicar meus conhecimentos  
 
 ---
 
 ## 🛠️ Tecnologias que estou aprendendo
-- **Linguagens:** Python, Java, JavaScript  
+- **Linguagens:** Python  
 - **Front-end:** HTML5, CSS3, JavaScript 
 - **Ferramentas:** Git, GitHub, VS Code  
 
