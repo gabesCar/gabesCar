@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Tecnologias que estou aprendendo
-- **Linguagens:** Python  
+- **Linguagens:** Python, C#
 - **Front-end:** HTML5, CSS3, JavaScript 
 - **Ferramentas:** Git, GitHub, VS Code  
 
