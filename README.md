@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Senac) – 2º semestre  
 💻 Interesse em **desenvolvimento web, banco de dados e programação**  
-📚 Atualmente aprendendo: **Python e MySQL**  
+📚 Atualmente aprendendo: **Python, C# e MySQL**  
 🚀 Buscando oportunidade de **estágio em TI** para aplicar meus conhecimentos  
 
 ---
