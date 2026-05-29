@@ -65,6 +65,22 @@ Me chamo Gabriel Cardoso Barbosa, tenho 21 anos e sou natural de São Paulo. Atu
 <br/>
 
   <div style="flex-basis: 48%;">
-    <h3>🔨 Ferramentas & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <h3>🔨 Ferramentas </h3>
+    <img
+      align="left"     
+      alt="VScode"
+      title="VScode"
+      width="30px"
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+      />
+    <img
+      align="left"     
+      alt="MySQL"
+      title="MySQL"
+      width="30px"
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+      />
+    
   </div>
