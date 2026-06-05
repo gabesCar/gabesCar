@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+FastAPI+%7C+SQL;APIs+REST;Always+Learning+New+Technologies" />
 </p>
 
+
 ---
 
 <p align="center">
