@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="./images/banner.png" width="100%">
-</p>
-
-
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Gabriel%20Cardoso&fontColor=ffffff&fontSize=52&animation=fadeIn" />
