@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Cardoso
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Backend em formação`**
 
 Me chamo Gabriel Cardoso Barbosa, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Senac. Sou apaixonado por tecnologia, e recentemente estou estudando linguagens de programação com foco em backend. Estou compartilhando meu conhecimento por meio do meu potfólio no [Github](https://github.com/gabesCar?tab=repositories), e também por meio do [Linkedin](https://www.linkedin.com/in/gabriell-cardoso12/)
 
@@ -45,69 +45,14 @@ Conquistar minha primeira oportunidade como Desenvolvedor Backend ou Estagiário
 
 ---
 
+
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 <br/>
 <br/>
 
-  <div style="flex-basis: 48%;">
-    <h3>🔨 Ferramentas </h3>
-    <img
-      align="left"     
-      alt="VScode"
-      title="VScode"
-      width="30px"
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-      />
-    <img
-      align="left"     
-      alt="MySQL"
-      title="MySQL"
-      width="30px"
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-      />
-    
-  </div>
