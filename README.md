@@ -4,6 +4,18 @@
 
 Me chamo Gabriel Cardoso Barbosa, tenho 21 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Senac. Sou apaixonado por tecnologia, e recentemente estou estudando linguagens de programação com foco em backend. Estou compartilhando meu conhecimento por meio do meu potfólio no [Github](https://github.com/gabesCar?tab=repositories), e também por meio do [Linkedin](https://www.linkedin.com/in/gabriell-cardoso12/)
 
+📚 Atualmente estudando:
+- Python
+- Banco de Dados
+- APIs REST
+- FastAPI
+- SQL
+
+🎯 Objetivo:
+Conquistar minha primeira oportunidade como Desenvolvedor Backend ou Estagiário em Tecnologia.
+
+📍 Belo Horizonte - MG
+
 </p>
 
 ###
