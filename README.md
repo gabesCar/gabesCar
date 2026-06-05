@@ -30,6 +30,13 @@ Conquistar minha primeira oportunidade como Desenvolvedor Backend ou Estagiário
 
 </div>
 
+---
+## 📈 Atividade
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabesCar&theme=github_dark)
+
+---
+
 ###
 <!-- GIF -->
 <p align="left">
