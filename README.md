@@ -81,6 +81,12 @@ Conquistar minha primeira oportunidade como Desenvolvedor Backend ou Estagiário
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gabesCar/gabesCar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ###
 <!-- GIF -->
 <p align="left">
