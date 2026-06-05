@@ -11,12 +11,6 @@
 ---
 
 <p align="center">
-  💻 Backend Developer em Formação
-</p>
-
-
-
-<p align="center">
   <a href="https://github.com/gabesCar">GitHub</a>
   <div align="center">
   <a href="https://www.instagram.com/gabscardosoo_/" target="_blank">
